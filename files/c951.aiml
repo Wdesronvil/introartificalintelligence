@@ -1,0 +1,111 @@
+<aiml>
+    <category>
+        <pattern>Hello</pattern>
+        <template>Welcome to this career chatbot. Tell me about your computer science related interests and I'll tell you. about future careers that might suit you</template>
+    </category>
+    <category>
+        <pattern>I AM GOOD AT CODING</pattern>
+        <template>You might be interested in roles like Software Developer or AI/ML Engineer.
+        Software Developer: Focus on designing and coding software applications.
+        Software Developer: $65,000 - $110,000 annually.
+        AI/ML Engineer: Develops algorithms for artificial intelligence and machine learning applications.
+        AI/ML Engineer: $80,000 - $130,000 annually.
+        
+        </template>
+    </category>
+    <category>
+        <pattern>I ENJOY ANALYZING DATA</pattern>
+        <template>You should consider becoming a Data Analyst or AI/ML Engineer.
+        Data Analyst: Involves collecting, cleaning, and interpreting large datasets.
+        Data Analyst: $55,000 - $90,000 annually.
+        AI/ML Engineer: Develops algorithms for artificial intelligence and machine learning applications.
+        AI/ML Engineer: $80,000 - $130,000 annually.
+        </template>
+    </category>
+    <category>
+        <pattern>I WANT TO WORK IN CYBERSECURITY</pattern>
+        <template>Cybersecurity Analyst is an excellent choice for you!
+        Cybersecurity Analyst: Protects systems and networks from cyber threats.
+        Cybersecurity Analyst: $70,000 - $110,000 annually.
+        </template>
+    </category>
+      <category>
+        <pattern>I ENJOY WORKING WITH AI</pattern>
+        <template>You might be interested in a AI/ ML engineer position
+        AI/ML Engineer: Develops algorithms for artificial intelligence and machine learning applications.
+        AI/ML Engineer: $80,000 - $130,000 annually.
+        </template>
+    </category>
+      <category>
+        <pattern>I AM INTERESTED IN WORKING WITH SYSTEMS AND IT</pattern>
+        <template>You might want to look into becoming a Systems Administrator
+        Systems Administrator: Manages IT infrastructure, including servers and networks.
+        Systems Administrator: $55,000 - $85,000 annually.
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT JOBS CAN I GET WITH A COMPUTER SCIENCE DEGREE</pattern>
+        <template>
+            Here are some options:
+            1. Software Developer
+            2. Data Analyst
+            3. Cybersecurity Analyst
+            4. AI/ML Engineer
+            5. Systems Administrator
+            Please choose one and I'll give you a description of that position
+        </template>
+    </category>
+    
+     <category>
+        <pattern>Systems Administrator</pattern>
+        <template>
+        Systems Administrator: Manages IT infrastructure, including servers and networks.
+        </template>
+    </category>
+    
+       <category>
+        <pattern>AI/ML Engineer</pattern>
+        <template>
+        AI/ML Engineer: Develops algorithms for artificial intelligence and machine learning applications.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Cybersecurity Analyst</pattern>
+        <template>
+        Cybersecurity Analyst: Protects systems and networks from cyber threats.
+        </template>
+    </category>
+    
+     <category>
+        <pattern>Data Analyst</pattern>
+        <template>
+        Data Analyst: Involves collecting, cleaning, and interpreting large datasets.
+        </template>
+    </category>
+    
+     <category>
+        <pattern>Software Developer</pattern>
+        <template>
+        Software Developer: Focus on designing and coding software applications.
+        </template>
+    </category>
+    
+    
+    <category>
+    <pattern>HOW CAN I BUILD A RESUME</pattern>
+    <template>
+        Start by highlighting your technical skills, projects, and internships. Ensure clarity and avoid errors.
+    </template>
+</category>
+
+ <category>
+        <pattern>HOW SHOULD I HANDLE INTERVIEW PREPARATION</pattern>
+        <template>To prepare for a computer science interview, review key concepts like data structures, algorithms, 
+        and systems design, and practice coding problems on platforms like LeetCode. Research the company and role to
+        tailor your answers and prepare thoughtful questions for the interviewer. Finally, practice behavioral questions
+        using the STAR method and be ready to discuss your projects and technical contributions confidently.
+        </template>
+    </category>
+</aiml>
+
